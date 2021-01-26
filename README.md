@@ -1,1 +1,1 @@
-get started with git
+get started with git.
